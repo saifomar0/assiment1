@@ -1,0 +1,3 @@
+D:/assiment 1/cmake-build-debug/CMakeFiles/assiment_1.dir
+D:/assiment 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/assiment 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
